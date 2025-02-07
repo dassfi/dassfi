@@ -1,6 +1,5 @@
-## Olá, eu sou Arthur! 👋
-Atualmente estudando 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=28B615&random=true&width=435&lines=Java+Script%2CVueJs%2C+Quasar%2C+C%23%2C+MongoDB)](https://git.io/typing-svg)
+## Olá, eu sou Arthur! 👋 Atualmente estou estudando
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=28B615&random=true&width=435&lines=Java+Script%2CVueJs%2CQuasar%2CC%23%2CMongoDB)](https://git.io/typing-svg)
 <!--
 **dassfi/dassfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
